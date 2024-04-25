@@ -1,0 +1,18 @@
+{
+    "name": "localhist/includes",
+    "description": "Test project for inline",
+    "autoload": {
+        "psr-4": {
+            "Localhist\\Includes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Petukhov-Sergey",
+            "email": "9499goginsan9499@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-mysqli": "*"
+    }
+}
